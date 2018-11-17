@@ -1,0 +1,27 @@
+{
+  "name": "burger2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhodes/burger2.git"
+  },
+  "author": "Billy Hodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhodes/burger2/issues"
+  },
+  "homepage": "https://github.com/bhodes/burger2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
